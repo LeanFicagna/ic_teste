@@ -12,7 +12,7 @@
 #
 #
 #
-# Para executar o serve primeiro abra um terminal dentro da pasta backend e execute o comando: python app.py
+# Para executar o serve primeiro. Abra um terminal dentro da pasta backend e execute o comando: python app.py
 # 
 #
-# Para rodar o vue.js, entre na pasta frontend, e com o npm e nodejs instalado execute no terminal: npm run serve
+# Para rodar o vue.js, entre na pasta frontend, e com o npm e nodejs instalado execute no terminal: 'npm install' e em seguida 'npm run serve'
