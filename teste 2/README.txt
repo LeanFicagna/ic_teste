@@ -1,0 +1,1 @@
+# Abra o terminal dentro desta pasta e executa o comando: python main.py
